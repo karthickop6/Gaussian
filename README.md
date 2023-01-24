@@ -60,7 +60,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination](./https://github.com/karthickop6/Gaussian/blob/main/Screenshot%202023-01-24%20at%2017-47-47%20Ex06-CR-%20Gaussian%20Elimination%20Attempt%20review.png)
+![gaussian elimination](./Screenshot%202023-01-24%20at%2017-47-47%20Ex06-CR-%20Gaussian%20Elimination%20Attempt%20review.png)
 
 
 ## Result:
